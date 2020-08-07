@@ -102,3 +102,5 @@ dist
 
 # TernJS port file
 .tern-port
+#banco_deDados
+src/database/database.sqlite
